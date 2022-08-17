@@ -3,7 +3,7 @@ package header_transmute_test
 import (
 	"context"
 	"fmt"
-	plugin "github.com/dariusandz/header-transmute"
+	plugin "github.com/inventi/traefik-header-transmute"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

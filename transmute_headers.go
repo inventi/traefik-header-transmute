@@ -5,9 +5,9 @@ package header_transmute
 import (
 	"context"
 	"fmt"
-	"github.com/dariusandz/header-transmute/pkg/mapper"
-	"github.com/dariusandz/header-transmute/pkg/reader"
-	"github.com/dariusandz/header-transmute/pkg/types"
+	"github.com/inventi/traefik-header-transmute/pkg/mapper"
+	"github.com/inventi/traefik-header-transmute/pkg/reader"
+	"github.com/inventi/traefik-header-transmute/pkg/types"
 	"net/http"
 	"os"
 )

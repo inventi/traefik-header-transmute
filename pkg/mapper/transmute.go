@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	"github.com/dariusandz/header-transmute/pkg/types"
+	"github.com/inventi/traefik-header-transmute/pkg/types"
 	"net/http"
 )
 

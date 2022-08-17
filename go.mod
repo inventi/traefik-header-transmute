@@ -1,4 +1,4 @@
-module github.com/dariusandz/header-transmute
+module github.com/inventi/traefik-header-transmute
 
 go 1.18
 

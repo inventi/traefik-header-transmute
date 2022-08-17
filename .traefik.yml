@@ -2,7 +2,7 @@ displayName: Dynamic header transmutation
 
 type: middleware
 
-import: github.com/dariusandz/header-transmute
+import: github.com/inventi/traefik-header-transmute
 
 summary: 'Dynamically transmute header value with provided mapping'
 

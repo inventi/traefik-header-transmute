@@ -2,7 +2,7 @@ package reader_test
 
 import (
 	"fmt"
-	"github.com/dariusandz/header-transmute/pkg/reader"
+	"github.com/inventi/traefik-header-transmute/pkg/reader"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -1,8 +1,8 @@
 package mapper_test
 
 import (
-	"github.com/dariusandz/header-transmute/pkg/mapper"
-	"github.com/dariusandz/header-transmute/pkg/types"
+	"github.com/inventi/traefik-header-transmute/pkg/mapper"
+	"github.com/inventi/traefik-header-transmute/pkg/types"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"
