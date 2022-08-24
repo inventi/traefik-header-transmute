@@ -1,4 +1,4 @@
-package header_transmute
+package traefik_header_transmute
 
 // Adapted from https://github.com/traefik/plugindemo/blob/master/demo.go
 
