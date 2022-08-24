@@ -1,4 +1,4 @@
-package header_transmute_test
+package traefik_header_transmute_test
 
 import (
 	"context"
